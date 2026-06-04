@@ -1,0 +1,2 @@
+# Parameter-Efficient-Continual-Test-Time-Adaptation-via-Grouped-Expert-Sharing-DMLS-Final-Project-
+CTTA struggles with seamless domain shifts and forgetting. We propose the Intra-Stage Grouped Expert framework to solve this. It combines a Mixture of Experts (MoE) with Intra-Stage Grouped Expert Sharing across adjacent layers. This reduces parameters while keeping low-memory benefits, achieving a 60.47% mIoU with high efficiency.
