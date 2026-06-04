@@ -1,6 +1,0 @@
-[2, 4, 10, 16]
-new_topk
-*********** Load model from ..  ./pretrained/Ours_M_B5_wWAD_latest.pth ***********
-====== Round  0  ====== 
-* TRAINABLE PARAMS_COUNT :  2701236
---------------------------------------------------
